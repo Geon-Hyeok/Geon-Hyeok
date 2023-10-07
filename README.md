@@ -7,6 +7,7 @@
 <p align="center">I'm GeonHyeok Lee.</p>
 <p align="center"> My main skills are Java and Spring.</p>
 <p align="center">I am a developer that continues to grow in the future. 🔥</p>
+<br>
 
 <h3 align="center"><b>📞 Contact 📞</b></h3>
 <p align="center">
