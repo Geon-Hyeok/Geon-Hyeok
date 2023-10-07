@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Geon-Hyeok's+GitHub!👋)](https://git.io/typing-svg)
 
-## About me
+<h3 align="center"><b>About me</b></h3>
 
 
 <p align="center">I'm GeonHyeok Lee.</p>
 <p align="center"> My main skills are Java and Spring.</p>
 <p align="center">I am a developer that continues to grow in the future. 🔥</p>
 
-## 📞 Contact 📞
+<h3 align="center"><b>Contact</b></h3>
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:shon5982@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
