@@ -6,7 +6,7 @@
 <p align="center">I'm GeonHyeok Lee.</p>
 <p align="center"> My main skills are Java,Spring.</p>
 <p align="center">I am a developer that continues to grow in the future. 🔥</p>
-<p align="center"><a href="shon5982@gmail.com"></p>
+<p align="center">How to contact me: <a href="shon5982@gmail.com"></p>
 
 <br>
 
