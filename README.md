@@ -6,7 +6,13 @@
 <p align="center">I'm GeonHyeok Lee.</p>
 <p align="center"> My main skills are Java and Spring.</p>
 <p align="center">I am a developer that continues to grow in the future. 🔥</p>
-<p align="center">How to contact me: shon5982@gmail.com</p>
+
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:shon5982@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
 
 <br>
 
