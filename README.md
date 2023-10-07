@@ -9,11 +9,11 @@
 <p align="center">I am a developer that continues to grow in the future. 🔥</p>
 
 <h3 align="center"><b>📞 Contact 📞</b></h3>
-<div style="display:flex; flex-direction:row;">
+<p align="center">
     <a href="mailto:shon5982@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-</div><br>
+</p><br>
 
 <h3 align="center">I like...</h3>
 <p align="center">💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;✈️Trip&nbsp;&nbsp;</p>
