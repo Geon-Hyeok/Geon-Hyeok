@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=50&animation=twinkling&text-color=blue)
+![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=50&animation=twinkling&text-color=white)
 
 <h3 align="center"><b>About me</b></h3>
 
