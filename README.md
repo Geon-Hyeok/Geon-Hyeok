@@ -37,5 +37,5 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
-
+![Geon-Hyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geon-Hyeok&show_icons=true&theme=transparent)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
