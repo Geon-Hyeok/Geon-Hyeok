@@ -1,4 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=50&animation=twinkling&text-color=black)
+![header](https://capsule-render.vercel.app/api?
+type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?
+font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
+&center=false&vCenter=false&multiline=true&repeat=true&width=1000
+&height=100&lines=Welcome+to+bi-sz's+GitHub!👋)](https://git.io/typing-svg)
 
 <h3 align="center"><b>About me</b></h3>
 
@@ -7,7 +12,6 @@
 <p align="center"> My main skills are Java,Spring.</p>
 <p align="center">I am a developer that continues to grow in the future. 🔥</p>
 <p align="center">How to contact me: </p>
-![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shon5982@gmail.com)(mailto:shon5982@gmail.com)
 
 <br>
 
