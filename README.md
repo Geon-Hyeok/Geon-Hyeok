@@ -19,7 +19,9 @@
 <br>
 <div align="center">
     
-![Geon-Hyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geon-Hyeok&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geon-Hyeok&layout=compact&theme=transparent)
+![Geon-Hyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geon-Hyeok&show_icons=true&theme=transparent) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geon-Hyeok&layout=compact&theme=transparent)
 
 </div>
 
