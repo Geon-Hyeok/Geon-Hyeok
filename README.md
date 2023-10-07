@@ -17,9 +17,11 @@
 </p><br>
 
 <br>
-
+<div align="center">
+    
 ![Geon-Hyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geon-Hyeok&show_icons=true&theme=transparent)
 
+</div>
 
 <br>
 <br>
