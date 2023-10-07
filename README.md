@@ -9,13 +9,6 @@
 <p align="center">I am a developer that continues to grow in the future. 🔥</p>
 <br>
 
-<h3 align="center"><b>📞 Contact 📞</b></h3>
-<p align="center">
-    <a href="mailto:shon5982@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</p><br>
-
 <br>
 <div align="center">
     
@@ -49,5 +42,12 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
+
+<h3 align="center"><b>📞 Contact 📞</b></h3>
+<p align="center">
+    <a href="mailto:shon5982@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</p><br>
 
 
