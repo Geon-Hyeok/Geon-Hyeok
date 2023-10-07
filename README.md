@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=50&animation=twinkling&text-color=white)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Geon-Hyeok's+GitHub!👋)](https://git.io/typing-svg)
 
 <h3 align="center"><b>About me</b></h3>
 
@@ -10,12 +11,15 @@
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:shon5982@gmail.com">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-</div>
-
-<br>
+    <a href="https://open.kakao.com/o/sGFzzbsf">
+        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+    </a>
+    <a href="https://www.instagram.com/kwonbi_">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+</div><br>
 
 <h3 align="center">I like...</h3>
 <p align="center">💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;✈️Trip&nbsp;&nbsp;</p>
@@ -47,4 +51,3 @@
 
 ![Geon-Hyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geon-Hyeok&show_icons=true&theme=transparent)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
