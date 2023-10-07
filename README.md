@@ -22,6 +22,11 @@
 <br>
 <br>
 
+![Geon-Hyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geon-Hyeok&show_icons=true&theme=transparent)
+
+<br>
+<br>
+
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <div align=center> 
@@ -44,5 +49,4 @@
   <br>
 </div>
 
-![Geon-Hyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geon-Hyeok&show_icons=true&theme=transparent)
 
